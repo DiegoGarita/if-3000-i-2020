@@ -2,7 +2,7 @@
 package edu.ucr.rp.lab03.ui;
 
 import edu.ucr.rp.lab03.generator.PasswordGeneratorBuilder;
-import static edu.ucr.rp.lab03.ui.UIConstants.*;
+import static edu.ucr.rp.lab03UI.UIConstants.*;
 import javafx.application.Application;
 import javafx.geometry.HPos;
 import javafx.geometry.Insets;
